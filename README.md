@@ -1,6 +1,9 @@
-# test
-# this file is mine and it is awesome
-# I am SEAN CASEY 
-# ◉_◉
+# Introduction
 
-# I just added this lol
+This is a repository created by *Firstname*
+
+## Usage
+
+Run this command to execute the application:
+
+`python filename.py`
